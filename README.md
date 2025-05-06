@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Srinath!  
+### 🚀 Aspiring Software Engineer | Passionate Coder  
 
-<!--
-**Srinath-2203/Srinath-2203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **About Me**  
+I'm a **Computer Science student** at MLR Institute of Technology, specializing in **Web Development, Java, and Python**. I love building creative projects and solving problems!  
 
-Here are some ideas to get you started:
+🔧 **Skills & Technologies:**  
+- **Languages:** HTML, CSS, JavaScript, Python, Java  
+- **Frameworks:** Bootstrap, React (basic)  
+- **Developer Tools:** Git/GitHub, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 **Projects:**  
+- **Portfolio Website** – A fully responsive portfolio built with HTML, CSS, JavaScript.  
+- **[GitHub Repository](https://github.com/Srinath-2203/)**  
+
+📫 **Connect with Me:**  
+- **Email:** tholichukkasrinath@gmail.com  
+- **LinkedIn:** [Srinath Tholichukka](https://www.linkedin.com/in/srinaththolichukka)  
+
+🚀 **Let's build something amazing together!**
