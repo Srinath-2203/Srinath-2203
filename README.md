@@ -2,10 +2,10 @@
 ### 🚀 Aspiring Software Engineer | Passionate Coder  
 
 💻 **About Me**  
-I'm a **Computer Science student** at MLR Institute of Technology, specializing in **Web Development, Java, and Python**. I love building creative projects and solving problems!  
+I'm a **Computer Science student** at MLR Institute of Technology, specializing in **Web Development, Java**. I love building creative projects and solving problems!  
 
 🔧 **Skills & Technologies:**  
-- **Languages:** HTML, CSS, JavaScript, Python, Java  
+- **Languages:** HTML, CSS, JavaScript, Java  
 - **Frameworks:** Bootstrap, React (basic)  
 - **Developer Tools:** Git/GitHub, VS Code  
 
