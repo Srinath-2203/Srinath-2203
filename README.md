@@ -18,4 +18,6 @@ I'm a **Computer Science student** at MLR Institute of Technology, specializing 
 - **Email:** tholichukkasrinath@gmail.com  
 - **LinkedIn:** [Srinath Tholichukka](https://www.linkedin.com/in/srinaththolichukka)  
 
+💡**Feedback Welcome!**
+   I'm still learning and growing as a developer, so I welcome constructive feedback and suggestions. Feel free to reach out on any platform above—let's connect! 🚀
 🚀 **Let's build something amazing together!**
