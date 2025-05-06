@@ -11,7 +11,7 @@ I'm a **Computer Science student** at MLR Institute of Technology, specializing 
 
 📂 **Projects:**  
 - **Portfolio Website** – A fully responsive portfolio built with HTML, CSS, JavaScript.  
-- **[GitHub Repository](https://github.com/Srinath-2203/)**  
+- **[Project Link]( https://srinath-2203.github.io/portfolio-website/)**  
 
 📫 **Connect with Me:**  
 - **Email:** tholichukkasrinath@gmail.com  
