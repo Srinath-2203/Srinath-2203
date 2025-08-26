@@ -70,6 +70,7 @@
 
 ### 🤝 Connect With Me
 <p align="center">
-  <a href="[your-linkedin-url](https://www.linkedin.com/in/srinaththolichukka/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/srinaththolichukka/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:tholichukkasrinath@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
