@@ -8,8 +8,8 @@
 - 💻 Skilled in **Java, DSA, Web Development, AI/ML**  
 - 🚀 Passionate about building smart solutions with code  
 - 🌱 Currently learning **Spring Boot, React, and Cloud Basics**  
-- 📫 Reach me at **srinaththoli2203@gmail.com**  
-- 🔗 Connect with me on [LinkedIn](your-link-here)  
+- 📫 Reach me at **tholichukkasrinath@gmail.com**  
+- 🔗 Connect with me on [LinkedIn]([your-link-here](https://www.linkedin.com/in/srinaththolichukka/))  
 
 ---
 
@@ -70,6 +70,6 @@
 
 ### 🤝 Connect With Me
 <p align="center">
-  <a href="your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:srinaththoli2203@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[your-linkedin-url](https://www.linkedin.com/in/srinaththolichukka/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:tholichukkasrinath@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
