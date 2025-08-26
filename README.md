@@ -9,7 +9,7 @@
 - 🚀 Passionate about building smart solutions with code  
 - 🌱 Currently learning **Spring Boot, React, and Cloud Basics**  
 - 📫 Reach me at **tholichukkasrinath@gmail.com**  
-- 🔗 Connect with me on [[LinkedIn](https://www.linkedin.com/in/srinaththolichukka/)]([your-link-here])  
+- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/srinaththolichukka/)**  
 
 ---
 
@@ -37,10 +37,6 @@
 #### 🔹 [EduBot – AI Assistant for Coaching Centers](https://github.com/Srinath-2203/EduBot)
 - **Tech:** OpenAI, n8n, WhatsApp API  
 - Automates student/parent communication, scheduling, and reporting.  
-
-#### 🔹 [Fake News Detection using NLP](https://github.com/Srinath-2203/FakeNewsDetection)
-- **Tech:** Python, NLP, ML  
-- Detects fake news articles using Natural Language Processing.  
 
 #### 🔹 [DSA in Java](https://github.com/Srinath-2203/DSA-Java)
 - Well-structured solutions to Striver’s DSA problems in Java.  
