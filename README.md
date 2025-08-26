@@ -9,7 +9,7 @@
 - 🚀 Passionate about building smart solutions with code  
 - 🌱 Currently learning **Spring Boot, React, and Cloud Basics**  
 - 📫 Reach me at **tholichukkasrinath@gmail.com**  
-- 🔗 Connect with me on [LinkedIn]([your-link-here](https://www.linkedin.com/in/srinaththolichukka/))  
+- 🔗 Connect with me on [[LinkedIn](https://www.linkedin.com/in/srinaththolichukka/)]([your-link-here])  
 
 ---
 
@@ -33,10 +33,6 @@
 #### 🔹 [Online Doctor Appointment System (PoliClinic)](https://github.com/Srinath-2203/PoliClinic)
 - **Tech:** HTML, CSS, JavaScript  
 - A smart web app for booking doctor appointments online.  
-
-#### 🔹 [AI-Based Footwear Website](https://github.com/Srinath-2203/AI-Footwear)
-- **Tech:** AI + Web Development  
-- Personalized footwear shopping experience using AI.  
 
 #### 🔹 [EduBot – AI Assistant for Coaching Centers](https://github.com/Srinath-2203/EduBot)
 - **Tech:** OpenAI, n8n, WhatsApp API  
