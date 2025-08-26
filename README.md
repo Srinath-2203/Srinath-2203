@@ -34,7 +34,7 @@
 <p>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" /
 </p>
 
 
@@ -64,7 +64,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Srinath-2203&show_icons=true&theme=radical" alt="Srinath's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srinath-2203&theme=radical" alt="Srinath's streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinath-2203&theme=radical" alt="Srinath's streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinath-2203&layout=compact&theme=radical" alt="Top Languages" />
