@@ -64,7 +64,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Srinath-2203&show_icons=true&theme=radical" alt="Srinath's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinath-2203&theme=radical" alt="Srinath's streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srinath-2203&theme=radical" alt="Srinath's streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinath-2203&layout=compact&theme=radical" alt="Top Languages" />
