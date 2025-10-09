@@ -64,7 +64,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Srinath-2203&show_icons=true&theme=tokyonight" alt="Srinath's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srinath-2203&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Srinath-2203&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
