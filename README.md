@@ -50,9 +50,6 @@
 - **Tech:** OpenAI, n8n, WhatsApp API  
 - Automates student/parent communication, scheduling, and reporting.  
 
-#### 🔹 [DSA in Java](https://github.com/Srinath-2203/DSA-Java)
-- Well-structured solutions to Striver’s DSA problems in Java.  
-
 #### 🔹 [SQL Library Management System](https://github.com/Srinath-2203/SQL-Library)
 - **Tech:** SQL, DBMS  
 - Mini project to manage library database operations.  
