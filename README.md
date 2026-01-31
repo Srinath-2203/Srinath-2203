@@ -42,13 +42,13 @@
 
 ### 📂 Featured Projects
 
+#### 🔹 [AI_Comment_Classifier](https://github.com/Srinath-2203/EduBot)
+- **Tech:** Python, Machine Learning, NLP 
+- Automates student/parent communication, scheduling, and reporting.
+
 #### 🔹 [Online Doctor Appointment System (PoliClinic)](https://github.com/Srinath-2203/PoliClinic)
 - **Tech:** HTML, CSS, JavaScript  
 - A smart web app for booking doctor appointments online.  
-
-#### 🔹 [EduBot – AI Assistant for Coaching Centers](https://github.com/Srinath-2203/EduBot)
-- **Tech:** OpenAI, n8n, WhatsApp API  
-- Automates student/parent communication, scheduling, and reporting.  
 
 #### 🔹 [SQL Library Management System](https://github.com/Srinath-2203/SQL-Library)
 - **Tech:** SQL, DBMS  
