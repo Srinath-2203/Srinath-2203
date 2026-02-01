@@ -6,8 +6,7 @@
 ### 💡 About Me
 - 🎓 Final-year Computer Science Engineering Student (2026 Batch)  
 - 💻 Skilled in **Java, DSA, Web Development, AI/ML**  
-- 🚀 Passionate about building smart solutions with code  
-- 🌱 Currently learning **Spring Boot, React, and Cloud Basics**  
+- 🚀 Passionate about building smart solutions with code    
 - 📫 Reach me at **tholichukkasrinath@gmail.com**  
 - 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/srinaththolichukka/)**  
 
