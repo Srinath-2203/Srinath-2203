@@ -41,7 +41,7 @@
 
 ### 📂 Featured Projects
 
-#### 🔹 [AI_Comment_Classifier](https://github.com/Srinath-2203/EduBot)
+#### 🔹 [AI_Comment_Classifier](https://github.com/Srinath-2203/AI-Comment-Classifier)
 - **Tech:** Python, Machine Learning, NLP 
 - Automates student/parent communication, scheduling, and reporting.
 
