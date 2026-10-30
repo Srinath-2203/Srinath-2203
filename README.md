@@ -1,9 +1,17 @@
-# Hi 👋, I'm Srinath Tholichukka
 
+<div align="center">
+
+<b><font size="23">**Hi 👋, I'm Srinath Tholichukka**</font></b>
+
+<b>Exploring AI, Building Skills, Creating the Future.</b>
+
+</div>
 
 <h2>About Me</h2>
 
-**I'm an aspiring AI/ML Engineer passionate about Python, machine learning, and building practical technology solutions. I enjoy developing projects, working with databases using SQL and MySQL, exploring artificial intelligence, and continuously improving my programming and problem-solving skills.**
+  **I'm an aspiring AI/ML Engineer passionate about Python, machine learning, and building practical technology solutions.
+  I enjoy developing projects, exploring AI technologies, and continuously strengthening my programming,
+  analytical thinking, and problem-solving skills.**
 
 
 <h2>Tech Stack</h2>
