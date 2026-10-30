@@ -3,7 +3,9 @@
 ### Java Developer · React · Python · ML | B.Tech CSE '26 @ MLRIT | Seeking SWE Internship
 
 ---
-
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,html,css" />
+</p>
 ## 💡 About Me
 
 - 🎓 Final-year **Computer Science Engineering** student at MLR Institute of Technology, Hyderabad (2026 Batch)
