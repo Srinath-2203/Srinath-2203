@@ -31,7 +31,7 @@
 <h2>Connect With Me</h2>
 
 <p align="left">
-  <a href="https://linkedin.com/in/srinath-tholichukka"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/srinaththolichukka/"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
   <a href="mailto:tholichukkasrinath1@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email"/></a>
 </p>
