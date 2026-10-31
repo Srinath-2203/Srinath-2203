@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<b><font size="23">**Hi 👋, I'm Srinath Tholichukka**</font></b>
+<b><font size="23">**Hi 👋🏻, I'm Srinath Tholichukka**</font></b>
 
 <b>Exploring AI, Building Skills, Creating the Future.</b>
 
