@@ -1,3 +1,6 @@
+<!-- ============================= -->
+<!--        PROFILE HEADER        -->
+<!-- ============================= -->
 
 <div align="center">
 
@@ -7,12 +10,19 @@
 
 </div>
 
+<!-- ============================= -->
+<!--          ABOUT ME             -->
+<!-- ============================= -->
+
 <h2>About Me</h2>
 
-  **I'm an aspiring AI/ML Engineer passionate about Python, machine learning, and building practical technology solutions.
-  I enjoy developing projects, exploring AI technologies, and continuously strengthening my programming,
-  analytical thinking, and problem-solving skills.**
+**I'm an aspiring AI/ML Engineer passionate about Python, machine learning, and building practical technology solutions.
+I enjoy developing projects, exploring AI technologies, and continuously strengthening my programming,
+analytical thinking, and problem-solving skills.**
 
+<!-- ============================= -->
+<!--          TECH STACK           -->
+<!-- ============================= -->
 
 <h2>Tech Stack</h2>
 
@@ -23,10 +33,11 @@
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
-  
 </p>
 
-
+<!-- ============================= -->
+<!--        CONNECT WITH ME        -->
+<!-- ============================= -->
 
 <h2>Connect With Me</h2>
 
@@ -35,4 +46,3 @@
   &nbsp;&nbsp;
   <a href="mailto:tholichukkasrinath1@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email"/></a>
 </p>
-
