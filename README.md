@@ -16,7 +16,7 @@
 
 <h2>About Me</h2>
 
-**I'm an aspiring AI/ML Engineer passionate about Python, machine learning, and building practical technology solutions.
+** I'm an aspiring AI/ML Engineer passionate about Python, machine learning, and building practical technology solutions.
 I enjoy developing projects, exploring AI technologies, and continuously strengthening my programming,
 analytical thinking, and problem-solving skills. **
 
