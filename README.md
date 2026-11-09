@@ -45,7 +45,4 @@ analytical thinking, and problem-solving skills. **
   <a href="https://www.linkedin.com/in/srinaththolichukka/"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
   <a href="mailto:tholichukkasrinath1@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/srinaththolichukka/"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/></a>
-  &nbsp;&nbsp;
 </p>
